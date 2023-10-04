@@ -1,4 +1,4 @@
-# 0x02 Shell, I/O Redirections and Filters
+# 0x02 - Shell, I/O Redirections and Filters
 
 The shell scripts in the current directory do the following tasks:
 
