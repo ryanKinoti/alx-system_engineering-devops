@@ -1,4 +1,4 @@
-# 0x00 - Shell Baiscs
+# 0x00 - Shell Basics
 
 The shell scripts in the current directory do the following tasks:
 
